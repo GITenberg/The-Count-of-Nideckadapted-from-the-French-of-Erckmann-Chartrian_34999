@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '25644'
     url: http://www.gutenberg.org/2009/agents/25644
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34999#The-Count-of-Nideckadapted-from-the-French-of-Erckmann-Chartrian
 gutenberg_issued: '2011-01-18'
 gutenberg_type: Text
 identifiers:

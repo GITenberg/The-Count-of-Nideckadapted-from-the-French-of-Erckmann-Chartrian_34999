@@ -1,0 +1,36 @@
+_repo: The-Count-of-Nideckadapted-from-the-French-of-Erckmann-Chartrian_34999
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Searles, Victor A.
+    alias: Searles, Victor Q.
+    gutenberg_agent_id: '37383'
+    url: http://www.gutenberg.org/2009/agents/37383
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+  - agent_name: Fiske, Ralph Browning
+    gutenberg_agent_id: '25644'
+    url: http://www.gutenberg.org/2009/agents/25644
+description: ''
+gutenberg_issued: '2011-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'The Count of Nideck
+
+  adapted from the French of Erckmann-Chartrian'
+url: http://www.gutenberg.org/ebooks/34999
